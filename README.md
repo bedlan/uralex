@@ -7,7 +7,7 @@
 If you use these data please cite
 this dataset using the DOI of the [particular released version](../../releases/) you were using
 
-When you are using UraLex 2.0, you should also cite the following papers which introduce the dataset:
+When you are using UraLex 3.0, you should also cite the following papers which introduce the dataset:
 
 > De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
 
