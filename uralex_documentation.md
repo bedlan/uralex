@@ -6,7 +6,7 @@ Sven-Erik Soosaar, Mervi de Heer, Mikko Heikkilä, Kaj Syrjänen, Jyri Lehtinen,
 
 Please cite UraLex 3.0 as following when referring to this dataset:
 
-- BEAST paper
+> Vesakoski, Outi; Tresoldi, Tiago; Soosaar, Sven-Erik; de Heer, Mervi; Maurits, Luke; Syrjänen, Kaj; Honkola, Terhi and Dunn, Michael. “Unravelling the disintegration patterns and chronology of the Uralic language family.”
 
 Please include the DOI provided for UraLex 3.0 in your citation as well.
 
