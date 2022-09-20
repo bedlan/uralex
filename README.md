@@ -9,11 +9,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 When you are using UraLex 3.0, you should also cite the following papers which introduce the dataset:
 
-> De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
-
-and
-
-> Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+> De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Unravelling the disintegration patterns and chronology of the Uralic language family.”
 
 
 ## Description
