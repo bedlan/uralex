@@ -1,6 +1,6 @@
 # UraLex 3.0 - Uralic basic vocabulary with cognate and loanword information
 
-Sven-Erik Soosaar, Mervi de Heer, Mikko Heikkilä, Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, Toni Suutari, Michael Dunn, Urho Määttä & Unni-Päivä Leino
+Sven-Erik Soosaar, Mervi de Heer, Kaj Syrjänen, Mikko Heikkilä, Jyri Lehtinen, Toni Suutari, Urho Määttä, Unni-Päivä Leino, Michael Dunn & Outi Vesakoski
 
 # How to cite
 
