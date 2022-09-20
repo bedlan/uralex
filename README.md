@@ -9,7 +9,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 When you are using UraLex 3.0, you should also cite the following papers which introduce the dataset:
 
-> Vesakoski, Outi; Tresoldi, Tiago; Soosaar, Sven-Erik; de Heer, Mervi, Maurits, Luke; Syrjänen, Kaj; Honkola, Terhi and Dunn, Michael. “Unravelling the disintegration patterns and chronology of the Uralic language family.”
+> Vesakoski, Outi; Tresoldi, Tiago; Soosaar, Sven-Erik; de Heer, Mervi; Maurits, Luke; Syrjänen, Kaj; Honkola, Terhi and Dunn, Michael. “Unravelling the disintegration patterns and chronology of the Uralic language family.”
 
 
 ## Description
