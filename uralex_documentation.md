@@ -30,7 +30,7 @@ Each lexical reflex is also associated with multistate characters that reflect w
 
 In addition to inheritance from an ancestral language, linguistic items are also transmitted between languages through borrowing. While borrowed words share a root with their source language, they are not considered to belong to the same root-meaning set as their source, even if the donor language belongs to the same language family, since root-meaning sets represent inherited connections rather than lateral connections. For example, the words in the meaning slot for 'left' in Finnic languages (e.g. Est. *kura* 'left') are considered to be of common origin, while the North Saami *gurut* is a borrowing from Finnic defining a different set (EES 193). Similarly borrowings from other language families are separated into their own root-meaning sets. However, the dataset also includes another multistate character column besides the root-meaning sets to reflect *correlate* relationships; these group together words of the same meaning in different languages that share a root-form through either borrowing or inheritance.
 
-The borrowing information was revised for UraLex 2.0 by Mervi de Heer and Mikko Heikkilä, and updated for version 3.0 by Mervi de Heer. The borrowing information in UraLex 2.0 was published in conjunction with a detailed analysis on the contents and dynamics of borrowings in the basic vocabularies of six languages featured in the dataset (de Heer *et al.* 2021).
+The borrowing information was revised for UraLex 2.0 by Mervi de Heer and Mikko Heikkilä, and updated for version 3.0 by Mervi de Heer. The borrowing information in UraLex 2.0 was published in conjunction with a detailed analysis on the contents and dynamics of borrowings in the basic vocabularies of six languages featured in the dataset (De Heer *et al.* 2023).
  
 The loanword information concerns the columns `borr_source`, indicating the most likely donour language(s) for the borrowed lexemes, `borr_qual`, marking the certainty and credibility of the loan etymology, and `ref_borr`, containing the reference for the borrowing information. Additional notes on the loanwords can be found in the `etym_notes` column, which gives details on both inherited and loan etymologies when necessary. Mikko Heikkilä provided the reconstructed forms given for some items.
 
@@ -256,7 +256,7 @@ This table includes example phrases (in English) of each meaning item in the dat
 
 Chang, W., C. Cathcart, D. Hall & A. Garrett. (2015). "Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis." *Language* 91(1): 194-244. DOI: 10.1353/lan.2015.0005. 
 
-De Heer, M., Blokland, R., Dunn, M., Vesakoski, O. "Loanwords in basic vocabulary as an indicator of borrowing profiles". MS.
+De Heer, M., Blokland, R., Dunn, M., Vesakoski, (2023). "Loanwords in Basic Vocabulary as an Indicator of Borrowing Profiles." *Journal of Language Contact*, 16(1): 54-103. DOI: 10.1163/19552629-bja10057
 
 EES = Metsmägi, I., M. Sedrik & S. Soosaar. (2012). "Eesti etümoloogiasõnaraamat." Tallinn: Eesti Keele Sihtasutus.
 
