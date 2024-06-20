@@ -256,7 +256,7 @@ This table includes example phrases (in English) of each meaning item in the dat
 
 Chang, W., C. Cathcart, D. Hall & A. Garrett. (2015). "Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis." *Language* 91(1): 194-244. DOI: 10.1353/lan.2015.0005. 
 
-De Heer, M., Blokland, R., Dunn, M., Vesakoski, (2023). "Loanwords in Basic Vocabulary as an Indicator of Borrowing Profiles." *Journal of Language Contact*, 16(1): 54-103. DOI: 10.1163/19552629-bja10057
+De Heer, M., Blokland, R., Dunn, M., Vesakoski, O. (2023). "Loanwords in Basic Vocabulary as an Indicator of Borrowing Profiles." *Journal of Language Contact*, 16(1): 54-103. DOI: 10.1163/19552629-bja10057
 
 EES = Metsmägi, I., M. Sedrik & S. Soosaar. (2012). "Eesti etümoloogiasõnaraamat." Tallinn: Eesti Keele Sihtasutus.
 
