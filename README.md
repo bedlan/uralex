@@ -9,11 +9,11 @@ this dataset using the DOI of the [particular released version](../../releases/)
 
 When you are using UraLex 2.0, you should also cite the following papers which introduce the dataset:
 
-> De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
+> De Heer, Mervi; Rogier Blokland; Michael Dunn & Outi Vesakoski. 2024. “Loanwords in basic vocabulary as an indicator of borrowing profiles”. Journal of Language Contact 16 (1). 54–103. https://doi.org/10.1163/19552629-bja10057.
 
 and
 
-> Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+> Syrjänen, Kaj, Luke Maurits, Unni-Päivä Leino, Terhi Honkola, Jadranka Rota & Outi Vesakoski. 2021. “Crouching TIGER, hidden structure: Exploring the nature of lin guistic data using TIGER values”. Journal of Language Evolution 6(2). 99–118. https://doi.org/10.1093/jole/lzab004.
 
 
 ## Description
