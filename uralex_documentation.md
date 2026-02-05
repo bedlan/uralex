@@ -8,11 +8,11 @@ Mervi de Heer, Mikko Heikkilä, Kaj Syrjänen, Jyri Lehtinen, Outi Vesakoski, To
 
 Please cite UraLex 2.0 as following when referring to this dataset:
 
-De Heer, Mervi; Blokland, Rogier; Dunn, Michael; Vesakoski, Outi. (submitted manuscript). “Loanwords in basic vocabulary as an indicator of borrowing profiles.”
+De Heer, Mervi; Rogier Blokland; Michael Dunn & Outi Vesakoski. 2024. “Loanwords in basic vocabulary as an indicator of borrowing profiles”. Journal of Language Contact 16 (1). 54–103. https://doi.org/10.1163/19552629-bja10057.
 
 and
 
-Syrjänen, Kaj; Maurits, Luke; Leino, Unni; Honkola, Terhi; Rota, Jadranka & Vesakoski, Outi. (submitted manuscript). “Crouching TIGER, Hidden Structure: Exploring the nature of linguistic data using TIGER values.”
+Syrjänen, Kaj, Luke Maurits, Unni-Päivä Leino, Terhi Honkola, Jadranka Rota & Outi Vesakoski. 2021. “Crouching TIGER, hidden structure: Exploring the nature of lin guistic data using TIGER values”. Journal of Language Evolution 6(2). 99–118. https://doi.org/10.1093/jole/lzab004.
 
 Please include the DOI provided for UraLex 2.0 in this release in your citation as well.
 
@@ -35,7 +35,7 @@ Each lexical reflex is also associated with multistate characters that reflect w
 
 In addition to inheritance from an ancestral language, linguistic items are also transmitted between languages through borrowing. While borrowed words share a root with their source language, they are not considered to belong to the same root-meaning set as their source, even if the donor language belongs to the same language family, since root-meaning sets represent inherited connections rather than lateral connections. For example, the words in the meaning slot for 'left' in Finnic languages (e.g. Est. *kura* 'left') are considered to be of common origin, while the North Saami *gurut* is a borrowing from Finnic defining a different set (EES 193). Similarly borrowings from other language families are separated into their own root-meaning sets. However, the dataset also includes another multistate character column besides the root-meaning sets to reflect *correlate* relationships; these group together words of the same meaning in different languages that share a root-form through either borrowing or inheritance.
 
-For UraLex 2.0, the borrowing information drafted in the first UraLex release has been revised and updated by Mikko Heikkilä and Mervi de Heer. Heikkilä's primary focus was on the Finnic and Saamic languages. De Heer has updated and compiled loanword information for all languages in the dataset. UraLex 2.0 is published in conjunction with a detailed analysis on the contents and dynamics of borrowings in the basic vocabularies of six languages featured in the dataset (de Heer *et al.* 2021).
+For UraLex 2.0, the borrowing information drafted in the first UraLex release has been revised and updated by Mikko Heikkilä and Mervi de Heer. Heikkilä's primary focus was on the Finnic and Saamic languages. De Heer has updated and compiled loanword information for all languages in the dataset. UraLex 2.0 is published in conjunction with a detailed analysis on the contents and dynamics of borrowings in the basic vocabularies of six languages featured in the dataset (de Heer *et al.* 2024).
  
 The loanword information concerns the columns `borr_source`, indicating the most likely donour language(s) for the borrowed lexemes, `borr_qual`, marking the certainty and credibility of the loan etymology, and `ref_borr`, containing the reference for the borrowing information. Additional notes on the loanwords can be found in the `etym_notes` column, which gives details on both inherited and loan etymologies when necessary. Mikko Heikkilä provided the reconstructed forms given for some items.
 
@@ -305,7 +305,7 @@ This table records the word list collectors and double-checkers of each language
 
 Chang, W., C. Cathcart, D. Hall & A. Garrett. (2015). "Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis." *Language* 91(1): 194-244. DOI: 10.1353/lan.2015.0005. 
 
-De Heer, M., Blokland, R., Dunn, M., Vesakoski, O. "Loanwords in basic vocabulary as an indicator of borrowing profiles". MS.
+Syrjänen, Kaj, Luke Maurits, Unni-Päivä Leino, Terhi Honkola, Jadranka Rota & Outi Vesakoski. 2021. “Crouching TIGER, hidden structure: Exploring the nature of lin guistic data using TIGER values”. Journal of Language Evolution 6(2). 99–118. DOI: https://doi.org/10.1093/jole/lzab004.
 
 EES = Metsmägi, I., M. Sedrik & S. Soosaar. (2012). "Eesti etümoloogiasõnaraamat." Tallinn: Eesti Keele Sihtasutus.
 
@@ -335,4 +335,5 @@ Tambets, K., B. Yunusbayev, G. Hudjashov, A.-M. Ilumäe, S. Rootsi, T. Honkola, 
 
 
     
+
 
